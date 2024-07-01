@@ -17,5 +17,4 @@ Hi 👋 My name is Papu Allan
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Papuallan08"><img src="https://github-readme-stats.vercel.app/api?username=Papuallan08&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Papuallan08's GitHub stats" /></a>
-
+<a href="http://www.github.com/https://github.com/PapuAllan08"><img src="https://github-readme-stats.vercel.app/api?username=https://github.com/PapuAllan08&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="https://github.com/PapuAllan08's GitHub stats" /></a>
